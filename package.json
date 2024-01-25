@@ -1,0 +1,21 @@
+{
+  "name": "query_strings",
+  "version": "1.0.0",
+  "description": "Handling query strings in Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "\"npm\"",
+    "\"express\"",
+    "\"query\"",
+    "\"strings\""
+  ],
+  "author": "\"Xinran Zhang\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
