@@ -11,3 +11,4 @@ Steps to run the server
 This js file is to demonstrate how to retrieve and utilize query string data from GET request.
 
 When you visit "Localhost:3000/get?name=abcdef" in web browser, you will see the screenshot.
+Screenshot string.png
